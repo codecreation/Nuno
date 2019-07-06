@@ -1,8 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700&display=swap');
 
+body{
+  overflow-x:hidden;
+  font-style: 'Lato', sans-serif;
+  color: #505962;
+}
 
+/* NAVIGATION */
 
-
-
+.navbar{
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: .9rem;
+  letter-spacing: .1rem;
+  background-color: rgba(0,0,0,.6)!important;
+}
 
 /*============ BOOTSTRAP BREAK POINTS:
 
